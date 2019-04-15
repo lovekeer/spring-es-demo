@@ -51,7 +51,7 @@ public class Test {
 
     /**
      * 简化版ES聚合
-     * 习思想传播中心-统计查询--用户使用统计（查询Es设备数）
+     * 思想传播中心-统计查询--用户使用统计（查询Es设备数）
      *
      */
     @RequestMapping("getTests")
@@ -80,7 +80,7 @@ public class Test {
     }
 
     /**
-     * 习思想传播中心-统计查询--用户使用统计（查询Es设备数，包含去重）
+     * 思想传播中心-统计查询--用户使用统计（查询Es设备数，包含去重）
      *
      */
     @RequestMapping("getTest")
