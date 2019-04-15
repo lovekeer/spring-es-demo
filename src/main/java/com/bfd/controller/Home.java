@@ -60,7 +60,7 @@ public class Home {
     private String indexType;
 
     /**
-     * 习思想传播中心-首页-ES聚合统计时间段内接口调用总次数，成功次数，失败次数
+     * 思想传播中心-首页-ES聚合统计时间段内接口调用总次数，成功次数，失败次数
      * 以天为维度聚合
      */
     @RequestMapping("getDay")
