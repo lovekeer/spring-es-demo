@@ -1,4 +1,4 @@
-package com.bfd.test;
+package com.bfd.controller;
 
 import com.bfd.utils.Constants;
 import com.google.common.collect.Maps;

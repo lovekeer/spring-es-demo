@@ -1,4 +1,4 @@
-package com.bfd.test;
+package com.bfd.controller;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;

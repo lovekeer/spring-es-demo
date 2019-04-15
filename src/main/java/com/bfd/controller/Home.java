@@ -1,4 +1,4 @@
-package com.bfd.test;
+package com.bfd.controller;
 
 import com.bfd.bean.TotalDistributeVO;
 import com.bfd.utils.Constants;
